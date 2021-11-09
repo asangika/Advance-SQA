@@ -1,1 +1,3 @@
 
+10. Develop performance test script using JMETER for above identified test scenarios and
+measure response time
