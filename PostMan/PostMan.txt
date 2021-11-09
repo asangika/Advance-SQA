@@ -1,1 +1,2 @@
-
+9. Identify web services available for above identified test scenarios and test them using
+Postman
